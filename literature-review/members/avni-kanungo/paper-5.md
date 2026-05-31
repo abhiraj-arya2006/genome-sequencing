@@ -1,6 +1,7 @@
-# 📄 Paper 5: Pending Self-Selected Paper 1 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 5: Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection
+*   **Journal / Conference**: Data Mining and Knowledge Discovery (2026)
+*   **DOI**: `10.1007/s10791-026-10173-2`
+*   **Link**: [Data Mining and Knowledge Discovery](https://link.springer.com/article/10.1007/s10791-026-10173-2)
 
 ---
 

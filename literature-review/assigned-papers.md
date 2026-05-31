@@ -99,4 +99,9 @@ The following sections list the approved paper selections for each researcher. U
 
 ### 11. Avni Kanungo
 *   **Paper Selections**:
-    *   *Claimed Papers Pending* | Pre-allocated in `literature-review/members/avni-kanungo/` | DOIs: `TBC`
+    1.  *Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection* | Data Mining and Knowledge Discovery (2026) | DOI: `10.1007/s10791-026-10173-2`
+    2.  *Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding* | Plants (MDPI) (2020) | DOI: `10.3390/plants9010034`
+    3.  *Brain Imaging Genomics: Integrated Analysis and Machine Learning* | Proceedings of the IEEE (2019) | DOI: `10.1109/JPROC.2019.2947272`
+    4.  *Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems* | Reviews in Fisheries Science & Aquaculture (2024) | DOI: `10.1080/23308249.2024.2423189`
+    5.  *Whole-genome phenotype prediction with machine learning: open problems in bacterial genomics* | Bioinformatics (2025) | DOI: `10.1093/bioinformatics/btaf206`
+

@@ -1,6 +1,7 @@
-# 📄 Paper 9: Pending Self-Selected Paper 5 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 9: Whole-genome phenotype prediction with machine learning: open problems in bacterial genomics
+*   **Journal / Conference**: Bioinformatics (2025)
+*   **DOI**: `10.1093/bioinformatics/btaf206`
+*   **Link**: [Bioinformatics](https://academic.oup.com/bioinformatics/article/41/7/btaf206/8171528)
 
 ---
 

@@ -1,6 +1,7 @@
-# 📄 Paper 8: Pending Self-Selected Paper 4 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 8: Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems
+*   **Journal / Conference**: Reviews in Fisheries Science & Aquaculture (2024)
+*   **DOI**: `10.1080/23308249.2024.2423189`
+*   **Link**: [Reviews in Fisheries Science & Aquaculture](https://www.tandfonline.com/doi/full/10.1080/23308249.2024.2423189)
 
 ---
 

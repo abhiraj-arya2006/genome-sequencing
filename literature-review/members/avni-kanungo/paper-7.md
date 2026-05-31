@@ -1,6 +1,7 @@
-# 📄 Paper 7: Pending Self-Selected Paper 3 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 7: Brain Imaging Genomics: Integrated Analysis and Machine Learning
+*   **Journal / Conference**: Proceedings of the IEEE (2019)
+*   **DOI**: `10.1109/JPROC.2019.2947272`
+*   **Link**: [Proceedings of the IEEE](https://ieeexplore.ieee.org/abstract/document/8886705)
 
 ---
 

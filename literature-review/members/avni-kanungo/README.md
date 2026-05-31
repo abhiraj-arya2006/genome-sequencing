@@ -21,16 +21,16 @@ This directory houses the systematic literature reviews for Avni Kanungo. Follow
 
 ## 🔬 Section 2: Self-Selected Papers
 
-5.  **[Paper 5: Pending Self-Selected Paper 1 Title](paper-5.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-6.  **[Paper 6: Pending Self-Selected Paper 2 Title](paper-6.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-7.  **[Paper 7: Pending Self-Selected Paper 3 Title](paper-7.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-8.  **[Paper 8: Pending Self-Selected Paper 4 Title](paper-8.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
-9.  **[Paper 9: Pending Self-Selected Paper 5 Title](paper-9.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+5.  **[Paper 5: Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection](paper-5.md)**
+    *   *Data Mining and Knowledge Discovery (2026)* | DOI: `10.1007/s10791-026-10173-2`
+6.  **[Paper 6: Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding](paper-6.md)**
+    *   *Plants (MDPI) (2020)* | DOI: `10.3390/plants9010034`
+7.  **[Paper 7: Brain Imaging Genomics: Integrated Analysis and Machine Learning](paper-7.md)**
+    *   *Proceedings of the IEEE (2019)* | DOI: `10.1109/JPROC.2019.2947272`
+8.  **[Paper 8: Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems](paper-8.md)**
+    *   *Reviews in Fisheries Science & Aquaculture (2024)* | DOI: `10.1080/23308249.2024.2423189`
+9.  **[Paper 9: Whole-genome phenotype prediction with machine learning: open problems in bacterial genomics](paper-9.md)**
+    *   *Bioinformatics (2025)* | DOI: `10.1093/bioinformatics/btaf206`
 
 ---
 

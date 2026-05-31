@@ -1,6 +1,7 @@
-# 📄 Paper 6: Pending Self-Selected Paper 2 Title
-*   **Journal / Conference**: TBC (TBC)
-*   **DOI**: `TBC`
+# 📄 Paper 6: Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding
+*   **Journal / Conference**: Plants (MDPI) (2020)
+*   **DOI**: `10.3390/plants9010034`
+*   **Link**: [Plants (MDPI)](https://www.mdpi.com/2223-7747/9/1/34)
 
 ---
 
