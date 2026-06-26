@@ -9,7 +9,7 @@
 
 | Evaluation Field | Researcher Analysis |
 | :--- | :--- |
-| **Problem Addressed** <br>*(1-2 lines)* | _[your notes here]_ |
+| **Problem Addressed** <br>*(1-2 lines)* | _[This paper tries to identify all the functional parts of human DNA, including both genes and the non-coding regions that help control genes.]_ |
 | **Methodology & Approach** <br>*(2-3 lines)* | _[your notes here]_ |
 | **Key Results & Findings** <br>*(2-3 lines)* | _[your notes here]_ |
 | **Limitations Identified** <br>*(1-2 lines)* | _[your notes here]_ |
